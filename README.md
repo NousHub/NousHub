@@ -1,16 +1,60 @@
-## Hi there 👋
-
 <!--
-**NousHub/NousHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  NousHub · 理性构建
+  Where thought becomes code.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
+
+# ⚡ NousHub
+
+**Nous**（νοῦς）— 希腊语中的"心智、理性、精神"。
+
+> 我们相信，优秀的软件始于优秀的思考。  
+> 代码是思想的表达，而非思想本身。
+
+---
+
+## 🧭 我们的领域
+
+| 平台 | 技术方向 |
+|------|---------|
+| 🌐 Web | 现代前端 · 响应式设计 · 全栈应用 |
+| 🖥️ 桌面 | 跨平台桌面应用（Windows / macOS / Linux） |
+| 📱 移动端 | Android · iOS · 跨平台框架 |
+| 🛠️ 工具链 | CLI 工具 · 开发者工具 · 效率增强 |
+
+---
+
+## 🚀 当前聚焦
+
+🔭 探索跨平台开发的最佳实践，让一套代码在多个终端上流畅运行。
+
+🛠️ 构建清晰、可维护、有长期价值的软件。
+
+---
+
+## 📦 开源项目
+
+| 项目 | 描述 | 状态 |
+|------|------|------|
+| 即将推出 | — | 🚧 筹备中 |
+
+---
+
+## 📫 联系
+
+- 📧 Email: [你的邮箱]
+- 🌐 官网: [你的官网链接]
+
+---
+
+## ✨ 我们的信条
+
+> **Build thoughtful.**
+
+不做无意义的重复，不堆砌无用的代码。  
+每行代码都应有其存在的理由。
+
+---
+
+*— NousHub Team*
