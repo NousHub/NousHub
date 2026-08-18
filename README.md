@@ -43,9 +43,7 @@
 
 ## 📫 联系
 
-- 📧 Email: [你的邮箱]
-- 🌐 官网: [你的官网链接]
-
+- 📧 Email: noushub@hotmail.com
 ---
 
 ## ✨ 我们的信条
